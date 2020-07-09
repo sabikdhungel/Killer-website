@@ -215,14 +215,14 @@ header {
       from(rgba(0, 0, 0, 0.705)),
       to(rgba(0, 0, 0, 0.705))
     ),
-    url(img/hero.jpg);
+    url(img/hero-min.jpg);
   background-image: -o-linear-gradient(
       rgba(0, 0, 0, 0.705),
       rgba(0, 0, 0, 0.705)
     ),
-    url(img/hero.jpg);
+    url(img/hero-min.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.705)),
-    url(img/hero.jpg);
+    url(img/hero-min.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -468,11 +468,11 @@ header {
       from(rgba(0, 0, 0, 0.8)),
       to(rgba(0, 0, 0, 0.8))
     ),
-    url(img/back-customers.jpg);
+    url(img/back-customers-min.jpg);
   background-image: -o-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(img/back-customers.jpg);
+    url(img/back-customers-min.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(img/back-customers.jpg);
+    url(img/back-customers-min.jpg);
   background-size: cover;
   color: #fff;
   background-attachment: fixed;
